@@ -1,1 +1,1 @@
-This is my base README. Branch 2 is John's favorite.
+This is my base README. I love all my branches equally.
