@@ -1,1 +1,1 @@
-This is my base README. Branch 1 rules!
+This is my base README. I love all my branches equally.
